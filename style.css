@@ -22,3 +22,10 @@
     margin: 1% 1% ;
 
 }
+@media screen and (max-width: 550px) {
+    .container {
+      height: 60%;
+      width: 100% !important; 
+    }
+  }
+  
