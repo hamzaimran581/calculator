@@ -1,0 +1,24 @@
+.container{
+    border: 2px solid black;
+    width: 40% !important;
+    height: 50%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+
+.btn-primary{
+    width: 100%;
+    margin-top: 2%;
+}
+
+.display{
+    width: 100% !important;
+    height: 15% 
+}
+
+.btn-dark{
+    width: 20%;
+    height: 14%;
+    margin: 1% 1% ;
+
+}
